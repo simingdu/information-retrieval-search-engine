@@ -94,6 +94,8 @@ The crawler included:
 ### Search Engine
 
 The final team search engine indexed **50,034 documents** and skipped **5,073 exact duplicates**.
+For a more detailed breakdown of the indexing and retrieval pipeline, see the
+[Search Engine Architecture](docs/search_engine_architecture.md).
 
 The system included:
 
