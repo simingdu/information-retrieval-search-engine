@@ -120,6 +120,8 @@ The final on-disk index was approximately **561 MB**, so the system used disk-ba
 information-retrieval-search-engine/
 ├── README.md
 ├── .gitignore
+├── docs/
+│   └── search_engine_architecture.md
 └── src/
     ├── crawler/
     │   ├── content_filters.py
